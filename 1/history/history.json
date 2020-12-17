@@ -1,0 +1,182 @@
+{
+  "73bc041916b5604d784702436e895f23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0256d7647526e6a",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/f0256d7647526e6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485841,
+        "stop" : 1596783486843,
+        "duration" : 1002
+      }
+    } ]
+  },
+  "ba40f60133642cfdac365b22d9337e3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98a3df1f61004a53",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/98a3df1f61004a53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485736,
+        "stop" : 1596783487784,
+        "duration" : 2048
+      }
+    } ]
+  },
+  "f993573e0af88390abe4d35800a0dad2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d0617bc932a95d5",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/2d0617bc932a95d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485736,
+        "stop" : 1596783485766,
+        "duration" : 30
+      }
+    } ]
+  },
+  "ff220ce3d7391a2e752428499e6b1ca0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de50346c0c8d4765",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/de50346c0c8d4765",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485736,
+        "stop" : 1596783486785,
+        "duration" : 1049
+      }
+    } ]
+  },
+  "4a7a7afaf5651a01df5e9781f40b42e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3873784e3beb335",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/f3873784e3beb335",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485736,
+        "stop" : 1596783487784,
+        "duration" : 2048
+      }
+    } ]
+  },
+  "2f6680e58edcb505c0c1f4c3e245b64" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc5f955e297895f6",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/cc5f955e297895f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485836,
+        "stop" : 1596783485836,
+        "duration" : 0
+      }
+    } ]
+  },
+  "741a4d3981eafa949fbad482160bc17b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d63b2ff27b2963c7",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/d63b2ff27b2963c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485736,
+        "stop" : 1596783486785,
+        "duration" : 1049
+      }
+    } ]
+  },
+  "efab5c305b74158bd94a9161369554e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af4458a208f89b0e",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/af4458a208f89b0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485736,
+        "stop" : 1596783485766,
+        "duration" : 30
+      }
+    } ]
+  },
+  "d009a4d6378fb7bf055f6f35bf5acaf1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1aac15df59fb56ab",
+      "reportUrl" : "https://trieulethe.github.io/test-allure/1//#testresult/1aac15df59fb56ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596783485835,
+        "stop" : 1596783485836,
+        "duration" : 1
+      }
+    } ]
+  }
+}

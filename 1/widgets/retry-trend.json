@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://trieulethe.github.io/test-allure/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 9,
+    "retry" : 0
+  }
+} ]
